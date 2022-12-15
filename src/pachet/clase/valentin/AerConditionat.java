@@ -8,7 +8,7 @@ public class AerConditionat extends AparatElectric {
 	private double arieAcoperita;
 	private double consumTelecomanda;
 
-	// Constructor implicit (fara parametri):
+	// ssssss Constructor implicit (fara parametri):
 	public AerConditionat() {
 		super();
 		clasa = null;
